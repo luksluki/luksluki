@@ -19,7 +19,7 @@
 - 🌏 Open to collaboration on impactful and forward-thinking projects
 
 📫 Reach me at: **[lukirahayuagung@gmail.com](mailto:lukirahayuagung@gmail.com)**  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/r-luki-rahayu-agung)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/r-luki-rahayu-agung-b501b5171/)
 
 ---
 
