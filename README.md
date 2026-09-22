@@ -192,8 +192,10 @@ Idle-tycoon **economy simulation** with a CI pipeline that runs headless balance
 
 <div align="center">
 
-<img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=luksluki&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6" />
-<img height="170" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksluki&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="100%" alt="profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luksluki&theme=github_dark" />
+
+<img alt="repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luksluki&theme=github_dark" />
+<img alt="most used commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luksluki&theme=github_dark" />
 
 <br/>
 
@@ -201,7 +203,7 @@ Idle-tycoon **economy simulation** with a CI pipeline that runs headless balance
 
 <br/>
 
-<img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luksluki&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" alt="contribution chart" src="https://ghchart.rshah.org/8B5CF6/luksluki" />
 
 </div>
 
